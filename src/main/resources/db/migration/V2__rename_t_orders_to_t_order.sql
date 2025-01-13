@@ -1,0 +1,1 @@
+ALTER TABLE `t_orders` RENAME TO `t_order`;
